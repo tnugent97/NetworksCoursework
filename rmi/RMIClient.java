@@ -13,7 +13,7 @@ import common.MessageInfo;
 public class RMIClient {
 
 	public static void main(String[] args) {
- 	
+
 		RMIServerI iRMIServer = null;
 		String hostName = args[0];
 		//int portNumber = Integer.parseInt(args[2]);
@@ -36,17 +36,17 @@ public class RMIClient {
 			Registry registry = LocateRegistry.getRegistry(args[0], 2020);
 			iRMIServer = (RMIServerI) (registry.lookup(urlServer));
 			while (numMessages >= messagesSent){
-			MessageInfo msg = new MessageInfo(numMessages, messagesSent);
+				MessageInfo msg = new MessageInfo(numMessages, messagesSent);
 				iRMIServer.receiveMessage(msg);
 				messagesSent++;
 			}
-			
+
 		} catch (Exception e){
 			e.printStackTrace();
 		}
 
 		// TO-DO: Attempt to send messages the specified number of times
-		
+
 
 	}
 }
