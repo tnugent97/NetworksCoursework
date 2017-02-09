@@ -27,14 +27,17 @@ public class RMIClient {
 
 		String urlServer = new String("/RMIServer");
 		int numMessages = Integer.parseInt(args[1]);
+
 		// TO-DO: Initialise Security Manager
-		//if (System.getSecurityManager() == null){
-		//	System.setSecurityManager(new SecurityManager());
-		//}
+		if (System.getSecurityManager() == null){
+			System.setSecurityManager(new SecurityManager());
+		}
+
 		// TO-DO: Bind to RMIServer
 		try {
 			Registry registry = LocateRegistry.getRegistry(args[0], 2020);
 			iRMIServer = (RMIServerI) (registry.lookup(urlServer));
+			// TO-DO: Attempt to send messages the specified number of times
 			while (numMessages >= messagesSent){
 				MessageInfo msg = new MessageInfo(numMessages, messagesSent);
 				iRMIServer.receiveMessage(msg);
@@ -45,7 +48,7 @@ public class RMIClient {
 			e.printStackTrace();
 		}
 
-		// TO-DO: Attempt to send messages the specified number of times
+
 
 
 	}
