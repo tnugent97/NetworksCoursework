@@ -18,6 +18,8 @@ public class UDPServer {
 	private int totalMessages = -1;
 	private int[] receivedMessages;
 	private boolean close;
+	boolean timeout = false;
+	boolean end = false; 
 
 	private void run() {
 		int				pacSize;
@@ -30,8 +32,11 @@ public class UDPServer {
 		pac = new DatagramPacket(pacData, pacData.length);
 		while(true){
 			try{
+				recvSoc.setSoTimeout(30000);
 				recvSoc.receive(pac);
-			} catch(Exception e){ e.printStackTrace(); }
+			} catch(Exception e){ 
+				e.printStackTrace(); timeout = true;
+			}
 
 			String data = new String(pac.getData(), 0 , pac.getLength());
 			processMessage(data);
@@ -39,29 +44,35 @@ public class UDPServer {
 	}
 
 	public void processMessage(String data) {
+		if(!timeout){
 
-		MessageInfo msg = null;
+			MessageInfo msg = null;
 
-		// TO-DO: Use the data to construct a new MessageInfo object
-		try{
-			msg = new MessageInfo(data);
-		} catch(Exception e){ e.printStackTrace(); }
+			// TO-DO: Use the data to construct a new MessageInfo object
+			try{
+				msg = new MessageInfo(data);
+			} catch(Exception e){ e.printStackTrace(); }
 
-		// TO-DO: On receipt of first message, initialise the receive buffer
-		if(msg.messageNum == 1){
-			receivedMessages = new int[msg.totalMessages];
+			// TO-DO: On receipt of first message, initialise the receive buffer
+			if(msg.messageNum == 1){
+				receivedMessages = new int[msg.totalMessages];
+				totalMessages = msg.totalMessages;
+			}
+
+			// TO-DO: Log receipt of the message
+			receivedMessages[msg.messageNum-1] = msg.messageNum;
+			System.out.println("Message Received");
+			System.out.println("msg number = " + msg.messageNum);
+			if(msg.messageNum == msg.totalMessages){
+				end = true;			
+			}
 		}
-
-		// TO-DO: Log receipt of the message
-		receivedMessages[msg.messageNum-1] = msg.messageNum;
-		System.out.println("Message Received");
-		System.out.println("msg number = " + msg.messageNum);
 
 		// TO-DO: If this is the last expected message, then identify
 		//        any missing messages
-		if(msg.messageNum == msg.totalMessages){
+		if((end) || (timeout)){
 			System.out.println("End of messages. These are the missed messages:");
-			for(int i = 0; i<msg.totalMessages; i++){
+			for(int i = 0; i<totalMessages; i++){
 				if(receivedMessages[i] != i+1){
 					System.out.println(i+1);
 				}

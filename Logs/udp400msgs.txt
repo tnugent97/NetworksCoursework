@@ -1,0 +1,714 @@
+tn1115@point10:NetworksCoursework$ ./udpserver.sh 2020
+UDPServer ready
+Message Received
+msg number = 1
+Message Received
+msg number = 2
+Message Received
+msg number = 3
+Message Received
+msg number = 4
+Message Received
+msg number = 5
+Message Received
+msg number = 6
+Message Received
+msg number = 7
+Message Received
+msg number = 8
+Message Received
+msg number = 9
+Message Received
+msg number = 10
+Message Received
+msg number = 11
+Message Received
+msg number = 12
+Message Received
+msg number = 13
+Message Received
+msg number = 14
+Message Received
+msg number = 15
+Message Received
+msg number = 16
+Message Received
+msg number = 17
+Message Received
+msg number = 18
+Message Received
+msg number = 19
+Message Received
+msg number = 20
+Message Received
+msg number = 21
+Message Received
+msg number = 22
+Message Received
+msg number = 23
+Message Received
+msg number = 24
+Message Received
+msg number = 25
+Message Received
+msg number = 26
+Message Received
+msg number = 27
+Message Received
+msg number = 28
+Message Received
+msg number = 29
+Message Received
+msg number = 30
+Message Received
+msg number = 31
+Message Received
+msg number = 32
+Message Received
+msg number = 33
+Message Received
+msg number = 34
+Message Received
+msg number = 35
+Message Received
+msg number = 36
+Message Received
+msg number = 37
+Message Received
+msg number = 38
+Message Received
+msg number = 39
+Message Received
+msg number = 40
+Message Received
+msg number = 41
+Message Received
+msg number = 42
+Message Received
+msg number = 43
+Message Received
+msg number = 44
+Message Received
+msg number = 45
+Message Received
+msg number = 46
+Message Received
+msg number = 47
+Message Received
+msg number = 48
+Message Received
+msg number = 49
+Message Received
+msg number = 50
+Message Received
+msg number = 51
+Message Received
+msg number = 52
+Message Received
+msg number = 53
+Message Received
+msg number = 54
+Message Received
+msg number = 55
+Message Received
+msg number = 56
+Message Received
+msg number = 57
+Message Received
+msg number = 58
+Message Received
+msg number = 59
+Message Received
+msg number = 60
+Message Received
+msg number = 61
+Message Received
+msg number = 62
+Message Received
+msg number = 63
+Message Received
+msg number = 64
+Message Received
+msg number = 65
+Message Received
+msg number = 66
+Message Received
+msg number = 67
+Message Received
+msg number = 68
+Message Received
+msg number = 69
+Message Received
+msg number = 70
+Message Received
+msg number = 71
+Message Received
+msg number = 72
+Message Received
+msg number = 73
+Message Received
+msg number = 74
+Message Received
+msg number = 75
+Message Received
+msg number = 76
+Message Received
+msg number = 77
+Message Received
+msg number = 78
+Message Received
+msg number = 79
+Message Received
+msg number = 80
+Message Received
+msg number = 81
+Message Received
+msg number = 82
+Message Received
+msg number = 83
+Message Received
+msg number = 84
+Message Received
+msg number = 85
+Message Received
+msg number = 86
+Message Received
+msg number = 87
+Message Received
+msg number = 88
+Message Received
+msg number = 89
+Message Received
+msg number = 90
+Message Received
+msg number = 91
+Message Received
+msg number = 92
+Message Received
+msg number = 93
+Message Received
+msg number = 94
+Message Received
+msg number = 95
+Message Received
+msg number = 96
+Message Received
+msg number = 97
+Message Received
+msg number = 98
+Message Received
+msg number = 99
+Message Received
+msg number = 100
+Message Received
+msg number = 101
+Message Received
+msg number = 102
+Message Received
+msg number = 103
+Message Received
+msg number = 104
+Message Received
+msg number = 105
+Message Received
+msg number = 106
+Message Received
+msg number = 107
+Message Received
+msg number = 108
+Message Received
+msg number = 109
+Message Received
+msg number = 110
+Message Received
+msg number = 111
+Message Received
+msg number = 112
+Message Received
+msg number = 113
+Message Received
+msg number = 114
+Message Received
+msg number = 115
+Message Received
+msg number = 116
+Message Received
+msg number = 117
+Message Received
+msg number = 118
+Message Received
+msg number = 119
+Message Received
+msg number = 120
+Message Received
+msg number = 121
+Message Received
+msg number = 122
+Message Received
+msg number = 123
+Message Received
+msg number = 124
+Message Received
+msg number = 125
+Message Received
+msg number = 126
+Message Received
+msg number = 127
+Message Received
+msg number = 128
+Message Received
+msg number = 129
+Message Received
+msg number = 130
+Message Received
+msg number = 131
+Message Received
+msg number = 132
+Message Received
+msg number = 133
+Message Received
+msg number = 134
+Message Received
+msg number = 135
+Message Received
+msg number = 136
+Message Received
+msg number = 137
+Message Received
+msg number = 138
+Message Received
+msg number = 139
+Message Received
+msg number = 140
+Message Received
+msg number = 141
+Message Received
+msg number = 142
+Message Received
+msg number = 143
+Message Received
+msg number = 144
+Message Received
+msg number = 145
+Message Received
+msg number = 146
+Message Received
+msg number = 147
+Message Received
+msg number = 148
+Message Received
+msg number = 149
+Message Received
+msg number = 150
+Message Received
+msg number = 151
+Message Received
+msg number = 152
+Message Received
+msg number = 153
+Message Received
+msg number = 154
+Message Received
+msg number = 155
+Message Received
+msg number = 156
+Message Received
+msg number = 157
+Message Received
+msg number = 158
+Message Received
+msg number = 159
+Message Received
+msg number = 160
+Message Received
+msg number = 161
+Message Received
+msg number = 162
+Message Received
+msg number = 163
+Message Received
+msg number = 164
+Message Received
+msg number = 165
+Message Received
+msg number = 166
+Message Received
+msg number = 167
+Message Received
+msg number = 168
+Message Received
+msg number = 169
+Message Received
+msg number = 170
+Message Received
+msg number = 171
+Message Received
+msg number = 172
+Message Received
+msg number = 173
+Message Received
+msg number = 174
+Message Received
+msg number = 175
+Message Received
+msg number = 176
+Message Received
+msg number = 177
+Message Received
+msg number = 178
+Message Received
+msg number = 179
+Message Received
+msg number = 180
+Message Received
+msg number = 181
+Message Received
+msg number = 182
+Message Received
+msg number = 183
+Message Received
+msg number = 184
+Message Received
+msg number = 185
+Message Received
+msg number = 186
+Message Received
+msg number = 187
+Message Received
+msg number = 188
+Message Received
+msg number = 189
+Message Received
+msg number = 190
+Message Received
+msg number = 191
+Message Received
+msg number = 192
+Message Received
+msg number = 193
+Message Received
+msg number = 194
+Message Received
+msg number = 195
+Message Received
+msg number = 196
+Message Received
+msg number = 197
+Message Received
+msg number = 198
+Message Received
+msg number = 199
+Message Received
+msg number = 200
+Message Received
+msg number = 201
+Message Received
+msg number = 202
+Message Received
+msg number = 203
+Message Received
+msg number = 204
+Message Received
+msg number = 205
+Message Received
+msg number = 206
+Message Received
+msg number = 207
+Message Received
+msg number = 208
+Message Received
+msg number = 209
+Message Received
+msg number = 210
+Message Received
+msg number = 211
+Message Received
+msg number = 212
+Message Received
+msg number = 213
+Message Received
+msg number = 214
+Message Received
+msg number = 215
+Message Received
+msg number = 216
+Message Received
+msg number = 217
+Message Received
+msg number = 218
+Message Received
+msg number = 219
+Message Received
+msg number = 220
+Message Received
+msg number = 221
+Message Received
+msg number = 222
+Message Received
+msg number = 223
+Message Received
+msg number = 224
+Message Received
+msg number = 225
+Message Received
+msg number = 226
+Message Received
+msg number = 227
+Message Received
+msg number = 228
+Message Received
+msg number = 229
+Message Received
+msg number = 230
+Message Received
+msg number = 231
+Message Received
+msg number = 232
+Message Received
+msg number = 233
+Message Received
+msg number = 234
+Message Received
+msg number = 235
+Message Received
+msg number = 236
+Message Received
+msg number = 237
+Message Received
+msg number = 238
+Message Received
+msg number = 239
+Message Received
+msg number = 240
+Message Received
+msg number = 241
+Message Received
+msg number = 242
+Message Received
+msg number = 243
+Message Received
+msg number = 244
+Message Received
+msg number = 245
+Message Received
+msg number = 246
+Message Received
+msg number = 247
+Message Received
+msg number = 248
+Message Received
+msg number = 249
+Message Received
+msg number = 250
+Message Received
+msg number = 251
+Message Received
+msg number = 252
+Message Received
+msg number = 253
+Message Received
+msg number = 254
+Message Received
+msg number = 255
+Message Received
+msg number = 256
+Message Received
+msg number = 257
+Message Received
+msg number = 258
+Message Received
+msg number = 259
+Message Received
+msg number = 260
+Message Received
+msg number = 261
+Message Received
+msg number = 262
+Message Received
+msg number = 263
+Message Received
+msg number = 264
+Message Received
+msg number = 265
+Message Received
+msg number = 266
+Message Received
+msg number = 267
+Message Received
+msg number = 268
+Message Received
+msg number = 269
+Message Received
+msg number = 270
+Message Received
+msg number = 271
+Message Received
+msg number = 272
+Message Received
+msg number = 273
+Message Received
+msg number = 274
+Message Received
+msg number = 275
+Message Received
+msg number = 276
+Message Received
+msg number = 277
+Message Received
+msg number = 278
+Message Received
+msg number = 279
+Message Received
+msg number = 280
+Message Received
+msg number = 281
+Message Received
+msg number = 282
+Message Received
+msg number = 283
+Message Received
+msg number = 284
+Message Received
+msg number = 285
+Message Received
+msg number = 286
+Message Received
+msg number = 287
+Message Received
+msg number = 288
+Message Received
+msg number = 289
+Message Received
+msg number = 290
+Message Received
+msg number = 291
+Message Received
+msg number = 292
+Message Received
+msg number = 293
+Message Received
+msg number = 294
+Message Received
+msg number = 295
+Message Received
+msg number = 296
+Message Received
+msg number = 297
+Message Received
+msg number = 298
+Message Received
+msg number = 299
+Message Received
+msg number = 300
+Message Received
+msg number = 301
+Message Received
+msg number = 302
+Message Received
+msg number = 303
+Message Received
+msg number = 304
+java.net.SocketTimeoutException: Receive timed out
+	at java.net.PlainDatagramSocketImpl.receive0(Native Method)
+	at java.net.AbstractPlainDatagramSocketImpl.receive(AbstractPlainDatagramSocketImpl.java:143)
+	at java.net.DatagramSocket.receive(DatagramSocket.java:812)
+	at udp.UDPServer.run(UDPServer.java:36)
+	at udp.UDPServer.main(UDPServer.java:106)
+End of messages. These are the missed messages:
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+

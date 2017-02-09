@@ -1,0 +1,804 @@
+tn1115@point10:NetworksCoursework$ ./rmiserver.sh
+Server started
+message received:
+msg number = 1
+message received:
+msg number = 2
+message received:
+msg number = 3
+message received:
+msg number = 4
+message received:
+msg number = 5
+message received:
+msg number = 6
+message received:
+msg number = 7
+message received:
+msg number = 8
+message received:
+msg number = 9
+message received:
+msg number = 10
+message received:
+msg number = 11
+message received:
+msg number = 12
+message received:
+msg number = 13
+message received:
+msg number = 14
+message received:
+msg number = 15
+message received:
+msg number = 16
+message received:
+msg number = 17
+message received:
+msg number = 18
+message received:
+msg number = 19
+message received:
+msg number = 20
+message received:
+msg number = 21
+message received:
+msg number = 22
+message received:
+msg number = 23
+message received:
+msg number = 24
+message received:
+msg number = 25
+message received:
+msg number = 26
+message received:
+msg number = 27
+message received:
+msg number = 28
+message received:
+msg number = 29
+message received:
+msg number = 30
+message received:
+msg number = 31
+message received:
+msg number = 32
+message received:
+msg number = 33
+message received:
+msg number = 34
+message received:
+msg number = 35
+message received:
+msg number = 36
+message received:
+msg number = 37
+message received:
+msg number = 38
+message received:
+msg number = 39
+message received:
+msg number = 40
+message received:
+msg number = 41
+message received:
+msg number = 42
+message received:
+msg number = 43
+message received:
+msg number = 44
+message received:
+msg number = 45
+message received:
+msg number = 46
+message received:
+msg number = 47
+message received:
+msg number = 48
+message received:
+msg number = 49
+message received:
+msg number = 50
+message received:
+msg number = 51
+message received:
+msg number = 52
+message received:
+msg number = 53
+message received:
+msg number = 54
+message received:
+msg number = 55
+message received:
+msg number = 56
+message received:
+msg number = 57
+message received:
+msg number = 58
+message received:
+msg number = 59
+message received:
+msg number = 60
+message received:
+msg number = 61
+message received:
+msg number = 62
+message received:
+msg number = 63
+message received:
+msg number = 64
+message received:
+msg number = 65
+message received:
+msg number = 66
+message received:
+msg number = 67
+message received:
+msg number = 68
+message received:
+msg number = 69
+message received:
+msg number = 70
+message received:
+msg number = 71
+message received:
+msg number = 72
+message received:
+msg number = 73
+message received:
+msg number = 74
+message received:
+msg number = 75
+message received:
+msg number = 76
+message received:
+msg number = 77
+message received:
+msg number = 78
+message received:
+msg number = 79
+message received:
+msg number = 80
+message received:
+msg number = 81
+message received:
+msg number = 82
+message received:
+msg number = 83
+message received:
+msg number = 84
+message received:
+msg number = 85
+message received:
+msg number = 86
+message received:
+msg number = 87
+message received:
+msg number = 88
+message received:
+msg number = 89
+message received:
+msg number = 90
+message received:
+msg number = 91
+message received:
+msg number = 92
+message received:
+msg number = 93
+message received:
+msg number = 94
+message received:
+msg number = 95
+message received:
+msg number = 96
+message received:
+msg number = 97
+message received:
+msg number = 98
+message received:
+msg number = 99
+message received:
+msg number = 100
+message received:
+msg number = 101
+message received:
+msg number = 102
+message received:
+msg number = 103
+message received:
+msg number = 104
+message received:
+msg number = 105
+message received:
+msg number = 106
+message received:
+msg number = 107
+message received:
+msg number = 108
+message received:
+msg number = 109
+message received:
+msg number = 110
+message received:
+msg number = 111
+message received:
+msg number = 112
+message received:
+msg number = 113
+message received:
+msg number = 114
+message received:
+msg number = 115
+message received:
+msg number = 116
+message received:
+msg number = 117
+message received:
+msg number = 118
+message received:
+msg number = 119
+message received:
+msg number = 120
+message received:
+msg number = 121
+message received:
+msg number = 122
+message received:
+msg number = 123
+message received:
+msg number = 124
+message received:
+msg number = 125
+message received:
+msg number = 126
+message received:
+msg number = 127
+message received:
+msg number = 128
+message received:
+msg number = 129
+message received:
+msg number = 130
+message received:
+msg number = 131
+message received:
+msg number = 132
+message received:
+msg number = 133
+message received:
+msg number = 134
+message received:
+msg number = 135
+message received:
+msg number = 136
+message received:
+msg number = 137
+message received:
+msg number = 138
+message received:
+msg number = 139
+message received:
+msg number = 140
+message received:
+msg number = 141
+message received:
+msg number = 142
+message received:
+msg number = 143
+message received:
+msg number = 144
+message received:
+msg number = 145
+message received:
+msg number = 146
+message received:
+msg number = 147
+message received:
+msg number = 148
+message received:
+msg number = 149
+message received:
+msg number = 150
+message received:
+msg number = 151
+message received:
+msg number = 152
+message received:
+msg number = 153
+message received:
+msg number = 154
+message received:
+msg number = 155
+message received:
+msg number = 156
+message received:
+msg number = 157
+message received:
+msg number = 158
+message received:
+msg number = 159
+message received:
+msg number = 160
+message received:
+msg number = 161
+message received:
+msg number = 162
+message received:
+msg number = 163
+message received:
+msg number = 164
+message received:
+msg number = 165
+message received:
+msg number = 166
+message received:
+msg number = 167
+message received:
+msg number = 168
+message received:
+msg number = 169
+message received:
+msg number = 170
+message received:
+msg number = 171
+message received:
+msg number = 172
+message received:
+msg number = 173
+message received:
+msg number = 174
+message received:
+msg number = 175
+message received:
+msg number = 176
+message received:
+msg number = 177
+message received:
+msg number = 178
+message received:
+msg number = 179
+message received:
+msg number = 180
+message received:
+msg number = 181
+message received:
+msg number = 182
+message received:
+msg number = 183
+message received:
+msg number = 184
+message received:
+msg number = 185
+message received:
+msg number = 186
+message received:
+msg number = 187
+message received:
+msg number = 188
+message received:
+msg number = 189
+message received:
+msg number = 190
+message received:
+msg number = 191
+message received:
+msg number = 192
+message received:
+msg number = 193
+message received:
+msg number = 194
+message received:
+msg number = 195
+message received:
+msg number = 196
+message received:
+msg number = 197
+message received:
+msg number = 198
+message received:
+msg number = 199
+message received:
+msg number = 200
+message received:
+msg number = 201
+message received:
+msg number = 202
+message received:
+msg number = 203
+message received:
+msg number = 204
+message received:
+msg number = 205
+message received:
+msg number = 206
+message received:
+msg number = 207
+message received:
+msg number = 208
+message received:
+msg number = 209
+message received:
+msg number = 210
+message received:
+msg number = 211
+message received:
+msg number = 212
+message received:
+msg number = 213
+message received:
+msg number = 214
+message received:
+msg number = 215
+message received:
+msg number = 216
+message received:
+msg number = 217
+message received:
+msg number = 218
+message received:
+msg number = 219
+message received:
+msg number = 220
+message received:
+msg number = 221
+message received:
+msg number = 222
+message received:
+msg number = 223
+message received:
+msg number = 224
+message received:
+msg number = 225
+message received:
+msg number = 226
+message received:
+msg number = 227
+message received:
+msg number = 228
+message received:
+msg number = 229
+message received:
+msg number = 230
+message received:
+msg number = 231
+message received:
+msg number = 232
+message received:
+msg number = 233
+message received:
+msg number = 234
+message received:
+msg number = 235
+message received:
+msg number = 236
+message received:
+msg number = 237
+message received:
+msg number = 238
+message received:
+msg number = 239
+message received:
+msg number = 240
+message received:
+msg number = 241
+message received:
+msg number = 242
+message received:
+msg number = 243
+message received:
+msg number = 244
+message received:
+msg number = 245
+message received:
+msg number = 246
+message received:
+msg number = 247
+message received:
+msg number = 248
+message received:
+msg number = 249
+message received:
+msg number = 250
+message received:
+msg number = 251
+message received:
+msg number = 252
+message received:
+msg number = 253
+message received:
+msg number = 254
+message received:
+msg number = 255
+message received:
+msg number = 256
+message received:
+msg number = 257
+message received:
+msg number = 258
+message received:
+msg number = 259
+message received:
+msg number = 260
+message received:
+msg number = 261
+message received:
+msg number = 262
+message received:
+msg number = 263
+message received:
+msg number = 264
+message received:
+msg number = 265
+message received:
+msg number = 266
+message received:
+msg number = 267
+message received:
+msg number = 268
+message received:
+msg number = 269
+message received:
+msg number = 270
+message received:
+msg number = 271
+message received:
+msg number = 272
+message received:
+msg number = 273
+message received:
+msg number = 274
+message received:
+msg number = 275
+message received:
+msg number = 276
+message received:
+msg number = 277
+message received:
+msg number = 278
+message received:
+msg number = 279
+message received:
+msg number = 280
+message received:
+msg number = 281
+message received:
+msg number = 282
+message received:
+msg number = 283
+message received:
+msg number = 284
+message received:
+msg number = 285
+message received:
+msg number = 286
+message received:
+msg number = 287
+message received:
+msg number = 288
+message received:
+msg number = 289
+message received:
+msg number = 290
+message received:
+msg number = 291
+message received:
+msg number = 292
+message received:
+msg number = 293
+message received:
+msg number = 294
+message received:
+msg number = 295
+message received:
+msg number = 296
+message received:
+msg number = 297
+message received:
+msg number = 298
+message received:
+msg number = 299
+message received:
+msg number = 300
+message received:
+msg number = 301
+message received:
+msg number = 302
+message received:
+msg number = 303
+message received:
+msg number = 304
+message received:
+msg number = 305
+message received:
+msg number = 306
+message received:
+msg number = 307
+message received:
+msg number = 308
+message received:
+msg number = 309
+message received:
+msg number = 310
+message received:
+msg number = 311
+message received:
+msg number = 312
+message received:
+msg number = 313
+message received:
+msg number = 314
+message received:
+msg number = 315
+message received:
+msg number = 316
+message received:
+msg number = 317
+message received:
+msg number = 318
+message received:
+msg number = 319
+message received:
+msg number = 320
+message received:
+msg number = 321
+message received:
+msg number = 322
+message received:
+msg number = 323
+message received:
+msg number = 324
+message received:
+msg number = 325
+message received:
+msg number = 326
+message received:
+msg number = 327
+message received:
+msg number = 328
+message received:
+msg number = 329
+message received:
+msg number = 330
+message received:
+msg number = 331
+message received:
+msg number = 332
+message received:
+msg number = 333
+message received:
+msg number = 334
+message received:
+msg number = 335
+message received:
+msg number = 336
+message received:
+msg number = 337
+message received:
+msg number = 338
+message received:
+msg number = 339
+message received:
+msg number = 340
+message received:
+msg number = 341
+message received:
+msg number = 342
+message received:
+msg number = 343
+message received:
+msg number = 344
+message received:
+msg number = 345
+message received:
+msg number = 346
+message received:
+msg number = 347
+message received:
+msg number = 348
+message received:
+msg number = 349
+message received:
+msg number = 350
+message received:
+msg number = 351
+message received:
+msg number = 352
+message received:
+msg number = 353
+message received:
+msg number = 354
+message received:
+msg number = 355
+message received:
+msg number = 356
+message received:
+msg number = 357
+message received:
+msg number = 358
+message received:
+msg number = 359
+message received:
+msg number = 360
+message received:
+msg number = 361
+message received:
+msg number = 362
+message received:
+msg number = 363
+message received:
+msg number = 364
+message received:
+msg number = 365
+message received:
+msg number = 366
+message received:
+msg number = 367
+message received:
+msg number = 368
+message received:
+msg number = 369
+message received:
+msg number = 370
+message received:
+msg number = 371
+message received:
+msg number = 372
+message received:
+msg number = 373
+message received:
+msg number = 374
+message received:
+msg number = 375
+message received:
+msg number = 376
+message received:
+msg number = 377
+message received:
+msg number = 378
+message received:
+msg number = 379
+message received:
+msg number = 380
+message received:
+msg number = 381
+message received:
+msg number = 382
+message received:
+msg number = 383
+message received:
+msg number = 384
+message received:
+msg number = 385
+message received:
+msg number = 386
+message received:
+msg number = 387
+message received:
+msg number = 388
+message received:
+msg number = 389
+message received:
+msg number = 390
+message received:
+msg number = 391
+message received:
+msg number = 392
+message received:
+msg number = 393
+message received:
+msg number = 394
+message received:
+msg number = 395
+message received:
+msg number = 396
+message received:
+msg number = 397
+message received:
+msg number = 398
+message received:
+msg number = 399
+message received:
+msg number = 400
+End of messages. These are the missed messages:
+
