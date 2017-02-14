@@ -16,7 +16,6 @@ public class RMIClient {
 
 		RMIServerI iRMIServer = null;
 		String hostName = args[0];
-		//int portNumber = Integer.parseInt(args[2]);
 		int messagesSent = 1;
 
 		// Check arguments for Server host and number of messages
@@ -47,9 +46,5 @@ public class RMIClient {
 		} catch (Exception e){
 			e.printStackTrace();
 		}
-
-
-
-
 	}
 }

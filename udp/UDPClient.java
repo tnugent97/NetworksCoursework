@@ -1,6 +1,3 @@
-/*
- * Created on 01-Mar-2016
- */
 package udp;
 
 import java.io.IOException;
@@ -53,7 +50,7 @@ public class UDPClient {
 		try{
 		sendSoc = new DatagramSocket(recvPort);
 		}	catch (Exception e){
-		e.printStackTrace();
+			e.printStackTrace();
 		}
 		// TO-DO: Send the messages to the server
 		for (int i = 0; i < countTo; i++){
